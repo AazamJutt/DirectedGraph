@@ -1,0 +1,5 @@
+﻿  graph.cpp
+  mytest.cpp
+  Generating Code...
+G:\Fiverr Work\DirectedGraph\DirectedGraph\graph.cpp(102): warning C4715: 'Graph::findNode': not all control paths return a value
+  DirectedGraph.vcxproj -> G:\Fiverr Work\DirectedGraph\Debug\DirectedGraph.exe
