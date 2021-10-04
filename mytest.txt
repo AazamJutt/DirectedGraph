@@ -1,0 +1,9 @@
+Constructor Test --> passed
+Empty Graph Test --> passed
+Build Graph Test --> passed
+Find non-existing path Test --> passed
+Find existing path Test --> passed
+Find path from node to itself --> passed
+Find path from a non-existing start node --> passed
+Find path from a non-existing end node --> passed
+Assignment operator Test --> passed
